@@ -58,6 +58,16 @@ Press CTRL+C to quit
 ^Croot@dice-devops:/home/Repos/devopslive3.1#
 
 ```
+## Output of Workflow Run
+
+https://github.com/sydali/devopslive3.1/actions/runs/6985666873/job/19010191030
+
+![image](https://github.com/sydali/devopslive3.1/assets/449393/c96c4023-0ae4-463b-851f-7eae2353b5a4)
+
+## Docker Image Pushed to GitHub packages
+
+
+![image](https://github.com/sydali/devopslive3.1/assets/449393/3e973c00-3548-44cb-a5bc-1cdb2c8fe7ca)
 
 
 
